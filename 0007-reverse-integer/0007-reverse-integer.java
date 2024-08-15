@@ -11,9 +11,6 @@ class Solution {
             if (newDigit > (Integer.MAX_VALUE - rem) / 10) {
                 return 0;
             }
-            if (newDigit > (Integer.MAX_VALUE)) {
-                return 0;
-            }
             newDigit = newDigit * 10 + rem;
             x = x / 10;
         }
