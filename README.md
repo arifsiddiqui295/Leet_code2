@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0151-reverse-words-in-a-string](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0283-move-zeroes) |
 ## Hash Table
@@ -55,5 +56,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0151-reverse-words-in-a-string) |
 | [0742-to-lower-case](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0742-to-lower-case) |
 <!---LeetCode Topics End-->
