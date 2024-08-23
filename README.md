@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/arifsiddiqui295/Leet_code2/tree/master/1013-fibonacci-number) |
+| [2032-largest-odd-number-in-string](https://github.com/arifsiddiqui295/Leet_code2/tree/master/2032-largest-odd-number-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -58,4 +59,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0151-reverse-words-in-a-string) |
 | [0742-to-lower-case](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0742-to-lower-case) |
+| [2032-largest-odd-number-in-string](https://github.com/arifsiddiqui295/Leet_code2/tree/master/2032-largest-odd-number-in-string) |
+## Greedy
+|  |
+| ------- |
+| [2032-largest-odd-number-in-string](https://github.com/arifsiddiqui295/Leet_code2/tree/master/2032-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
