@@ -15,12 +15,12 @@ class Solution {
                 count--;
             }
         }
-        int freq = 0;
+        count = 0 ;
         for (int i = 0; i < arr.length; i++) {
-            if(maxElem==arr[i]) freq++;
+            if(maxElem==arr[i]) count++;
         }
 
-        if (freq > n/2) {
+        if (count > n/2) {
             ans = maxElem;
         }
         return ans;
