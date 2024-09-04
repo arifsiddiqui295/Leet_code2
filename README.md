@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0189-rotate-array) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0283-move-zeroes) |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0268-missing-number) |
 ## String
