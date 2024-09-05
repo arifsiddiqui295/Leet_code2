@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0053-maximum-subarray) |
 | [1013-fibonacci-number](https://github.com/arifsiddiqui295/Leet_code2/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0136-single-number) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0169-majority-element) |
 ## Counting
 |  |
