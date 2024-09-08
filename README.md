@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0560-subarray-sum-equals-k) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/arifsiddiqui295/Leet_code2/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2155-find-missing-observations](https://github.com/arifsiddiqui295/Leet_code2/tree/master/2155-find-missing-observations) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/arifsiddiqui295/Leet_code2/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0283-move-zeroes) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/arifsiddiqui295/Leet_code2/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
 | ------- |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/arifsiddiqui295/Leet_code2/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2155-find-missing-observations](https://github.com/arifsiddiqui295/Leet_code2/tree/master/2155-find-missing-observations) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/arifsiddiqui295/Leet_code2/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Prefix Sum
 |  |
 | ------- |
