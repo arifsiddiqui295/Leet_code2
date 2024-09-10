@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/arifsiddiqui295/Leet_code2/tree/master/1013-fibonacci-number) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -132,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0560-subarray-sum-equals-k) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
