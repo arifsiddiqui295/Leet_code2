@@ -13,12 +13,10 @@ class Solution {
         }
         for (int i = 0; i < r1; i++) {
             int start = 0;
-            int end = r1-1;
             for (int j = r1 - 1; j >= r1 / 2; j--) {
                 int temp = arr[i][start];
-                arr[i][start]=arr[i][end];
-                arr[i][end]=temp;
-                end--;
+                arr[i][start]=arr[i][j];
+                arr[i][j]=temp;
                 start++;
             }
         }
