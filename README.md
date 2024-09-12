@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/arifsiddiqui295/Leet_code2/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2155-find-missing-observations](https://github.com/arifsiddiqui295/Leet_code2/tree/master/2155-find-missing-observations) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/arifsiddiqui295/Leet_code2/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2654-count-the-number-of-vowel-strings-in-range](https://github.com/arifsiddiqui295/Leet_code2/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 ## Two Pointers
 |  |
 | ------- |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0812-rotate-string) |
 | [2032-largest-odd-number-in-string](https://github.com/arifsiddiqui295/Leet_code2/tree/master/2032-largest-odd-number-in-string) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/arifsiddiqui295/Leet_code2/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2654-count-the-number-of-vowel-strings-in-range](https://github.com/arifsiddiqui295/Leet_code2/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 ## Greedy
 |  |
 | ------- |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0229-majority-element-ii) |
+| [2654-count-the-number-of-vowel-strings-in-range](https://github.com/arifsiddiqui295/Leet_code2/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 ## Simulation
 |  |
 | ------- |
