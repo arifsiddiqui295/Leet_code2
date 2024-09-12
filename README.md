@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0792-binary-search) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/arifsiddiqui295/Leet_code2/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/arifsiddiqui295/Leet_code2/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2155-find-missing-observations](https://github.com/arifsiddiqui295/Leet_code2/tree/master/2155-find-missing-observations) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/arifsiddiqui295/Leet_code2/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0560-subarray-sum-equals-k) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/arifsiddiqui295/Leet_code2/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Binary Search
 |  |
 | ------- |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0268-missing-number) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/arifsiddiqui295/Leet_code2/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Sorting
 |  |
 | ------- |
@@ -103,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0242-valid-anagram) |
 | [0742-to-lower-case](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0742-to-lower-case) |
 | [0812-rotate-string](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0812-rotate-string) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/arifsiddiqui295/Leet_code2/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2032-largest-odd-number-in-string](https://github.com/arifsiddiqui295/Leet_code2/tree/master/2032-largest-odd-number-in-string) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/arifsiddiqui295/Leet_code2/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/arifsiddiqui295/Leet_code2/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
@@ -132,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0229-majority-element-ii) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/arifsiddiqui295/Leet_code2/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/arifsiddiqui295/Leet_code2/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 ## Simulation
 |  |
