@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0283-move-zeroes) |
+| [0443-string-compression](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0443-string-compression) |
 | [0647-palindromic-substrings](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0647-palindromic-substrings) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/arifsiddiqui295/Leet_code2/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0242-valid-anagram) |
+| [0443-string-compression](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0443-string-compression) |
 | [0647-palindromic-substrings](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0647-palindromic-substrings) |
 | [0742-to-lower-case](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0742-to-lower-case) |
 | [0812-rotate-string](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0812-rotate-string) |
