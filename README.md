@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/arifsiddiqui295/Leet_code2/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/arifsiddiqui295/Leet_code2/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/arifsiddiqui295/Leet_code2/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
+| [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/arifsiddiqui295/Leet_code2/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 ## Two Pointers
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0560-subarray-sum-equals-k) |
 | [0782-jewels-and-stones](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0782-jewels-and-stones) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/arifsiddiqui295/Leet_code2/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/arifsiddiqui295/Leet_code2/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 ## Binary Search
 |  |
 | ------- |
