@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0036-valid-sudoku](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0054-spiral-matrix) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0169-majority-element) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0059-spiral-matrix-ii) |
