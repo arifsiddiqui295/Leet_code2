@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0560-subarray-sum-equals-k) |
 | [0782-jewels-and-stones](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0782-jewels-and-stones) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0443-string-compression) |
