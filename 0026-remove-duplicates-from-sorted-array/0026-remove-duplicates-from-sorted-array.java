@@ -8,7 +8,6 @@ class Solution {
                 int temp = nums[i];
                 nums[i] = nums[dup];
                 nums[dup] = temp;
-                prev = nums[dup];
                 dup++;
             }
         }
