@@ -3,20 +3,15 @@ class Solution {
         if (s.length() != t.length()) {
             return false;
         }
-        int[] arr1 = new int[26];
-        int[] arr2 = new int[26];
+        HashMap<Character, Integer> map = new HashMap<>();
+        HashMap<Character, Integer> map1 = new HashMap<>();
+
         for (int i = 0; i < s.length(); i++) {
             char ch = s.charAt(i);
-            arr1[ch - 'a']++;
+            map.put(ch, map.getOrDefault(ch, 0) + 1);
+            char bh = t.charAt(i);
+            map1.put(bh, map1.getOrDefault(bh, 0) + 1);
         }
-        for (int i = 0; i < t.length(); i++) {
-            char ch = t.charAt(i);
-            arr2[ch - 'a']++;
-        }
-        for (int i = 0; i < arr1.length; i++) {
-            if (arr1[i] != arr2[i])
-                return false;
-        }
-        return true;
+        return map.equals(map1);
     }
 }
