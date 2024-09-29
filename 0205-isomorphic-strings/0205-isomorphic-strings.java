@@ -1,28 +1,23 @@
 class Solution {
-    public boolean isIsomorphic(String s1, String s2) {
-           if (s1.length() != s2.length()) return false;
+    public boolean isIsomorphic(String s, String t) {
+        if (s.length() != t.length())
+            return false;
 
-        HashMap<Character, Character> mp1 = new HashMap<>();
-        HashSet<Character> st1 = new HashSet<>();
-
-        for (int i = 0; i < s1.length(); i++) {
-            if (!mp1.containsKey(s1.charAt(i))) {
-                if (st1.add(s2.charAt(i))) {
-                    mp1.put(s1.charAt(i), s2.charAt(i));
-                    st1.add(s2.charAt(i));
-//                    System.out.println(mp1);
-                } else {
+        Map<Character, Character> map = new HashMap<>();
+        for (int i = 0; i < s.length(); i++) {
+            char ch = s.charAt(i);
+            if (map.containsKey(ch)) {
+                if (!map.get(ch).equals(t.charAt(i))) {
                     return false;
                 }
             } else {
-                Character curr_value = mp1.get(s1.charAt(i));
-//                System.out.println(curr_value);
-                if(curr_value!=s2.charAt(i)){
+                if (map.containsValue(t.charAt(i))) {
                     return false;
+                } else {
+                    map.put(ch, t.charAt(i));
                 }
             }
         }
-//        System.out.println(mp1);
         return true;
     }
 }
