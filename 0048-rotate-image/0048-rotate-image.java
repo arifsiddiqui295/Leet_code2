@@ -1,23 +1,27 @@
 class Solution {
     public void rotate(int[][] arr) {
-        int r1 = arr.length;
-        int c1 = arr.length;
-        for (int i = 0; i < r1; i++) {
-            for (int j = 0; j < c1; j++) {
+        transpose(arr);
+        for (int i = 0; i < arr.length; i++) {
+            int start = 0;
+            int end = arr[i].length - 1;
+            while (start < end) {
+                int temp = arr[i][start];
+                arr[i][start] = arr[i][end];
+                arr[i][end] = temp;
+                start++;
+                end--;
+            }
+        }
+    }
+
+    static void transpose(int[][] arr) {
+        for (int i = 0; i < arr.length; i++) {
+            for (int j = 0; j < arr[i].length; j++) {
                 if (i < j) {
                     int temp = arr[i][j];
                     arr[i][j] = arr[j][i];
                     arr[j][i] = temp;
                 }
-            }
-        }
-        for (int i = 0; i < r1; i++) {
-            int start = 0;
-            for (int j = r1 - 1; j >= r1 / 2; j--) {
-                int temp = arr[i][start];
-                arr[i][start]=arr[i][j];
-                arr[i][j]=temp;
-                start++;
             }
         }
     }
