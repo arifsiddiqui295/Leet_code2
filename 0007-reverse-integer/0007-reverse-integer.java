@@ -1,6 +1,6 @@
 class Solution {
     public int reverse(int x) {
-        int newDigit = 0;
+        int newdigit = 0;
         int check = 0;
         if (x < 0) {
             x = x * -1;
@@ -8,16 +8,15 @@ class Solution {
         }
         while (x != 0) {
             int rem = x % 10;
-            if (newDigit > (Integer.MAX_VALUE - rem) / 10) {
+            if (newdigit > (Integer.MAX_VALUE - rem) / 10) {
                 return 0;
             }
-            newDigit = newDigit * 10 + rem;
+            newdigit = newdigit * 10 + rem;
             x = x / 10;
         }
-
         if (check == 1) {
-            return newDigit * -1;
+            newdigit = newdigit * -1;
         }
-        return newDigit;
+        return newdigit;
     }
 }
