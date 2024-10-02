@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0268-missing-number) |
