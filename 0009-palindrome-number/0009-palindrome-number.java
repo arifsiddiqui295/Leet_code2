@@ -1,18 +1,21 @@
 class Solution {
     public boolean isPalindrome(int x) {
-        if (x < 0) {
+        if (x < 0)
             return false;
-        }
+
+        int newdigit = 0;
         int copy = x;
-        int newDigit = 0;
         while (x != 0) {
             int rem = x % 10;
-            newDigit = newDigit * 10 + rem;
+            if (newdigit > (Integer.MAX_VALUE - rem)) {
+                return false;
+            }
+            newdigit = newdigit * 10 + rem;
             x = x / 10;
         }
-        if (copy == newDigit)
+        if (newdigit == copy) {
             return true;
-
+        }
         return false;
     }
 }
