@@ -14,13 +14,13 @@ class Solution {
                 ans.add(matrix[i][right]);
             }
             right--;
-            if (top <= bottom) {
+            if (top <= bottom && left <= right) {
                 for (int i = right; i >= left; i--) {
                     ans.add(matrix[bottom][i]);
                 }
             }
             bottom--;
-            if (left <= right) {
+            if (top <= bottom && left <= right) {
                 for (int i = bottom; i >= top; i--) {
                     ans.add(matrix[i][left]);
                 }
