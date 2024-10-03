@@ -16,6 +16,7 @@ class Solution {
         }
         if (check == 1) {
             newdigit = newdigit * -1;
+            return newdigit;
         }
         return newdigit;
     }
