@@ -1,28 +1,27 @@
 class Solution {
-    public int majorityElement(int[] arr) {
-        int n = arr.length;
+    public int majorityElement(int[] nums) {
+        int max = nums[0];
         int count = 0;
-        int maxElem = arr[0];
-        int ans = 0;
-
-        for (int i = 0; i < arr.length; i++) {
-            if (count == 0) {
-                maxElem = arr[i];
-                count = 1;
-            } else if (maxElem == arr[i]) {
+        for (int i = 0; i < nums.length; i++) {
+            if (max == nums[i]) {
                 count++;
             } else {
                 count--;
             }
+            if (count < 0) {
+                max = nums[i];
+                count = 0;
+            }
         }
-        count = 0 ;
-        for (int i = 0; i < arr.length; i++) {
-            if(maxElem==arr[i]) count++;
+        int freq = 0;
+        for (int i = 0; i < nums.length; i++) {
+            if (max == nums[i]) {
+                freq++;
+            }
         }
-
-        if (count > n/2) {
-            ans = maxElem;
+        if (freq > nums.length / 2) {
+            return max;
         }
-        return ans;
+        return -1;
     }
 }
