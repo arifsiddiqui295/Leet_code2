@@ -16,11 +16,7 @@ class Solution {
             size++;
             temp = temp.next;
         }
-        if (size % 2 == 0) {
-            size = size / 2;
-        } else {
-            size = (size / 2);
-        }
+        size = (size / 2);
         temp = head;
         int count = 0;
         while (count != size) {
