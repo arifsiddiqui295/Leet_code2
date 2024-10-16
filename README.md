@@ -253,4 +253,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/arifsiddiqui295/Leet_code2/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/arifsiddiqui295/Leet_code2/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
