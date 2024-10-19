@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0792-binary-search) |
+| [0898-transpose-matrix](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0898-transpose-matrix) |
 | [1603-running-sum-of-1d-array](https://github.com/arifsiddiqui295/Leet_code2/tree/master/1603-running-sum-of-1d-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/arifsiddiqui295/Leet_code2/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/arifsiddiqui295/Leet_code2/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0059-spiral-matrix-ii) |
+| [0898-transpose-matrix](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0898-transpose-matrix) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/arifsiddiqui295/Leet_code2/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2155-find-missing-observations](https://github.com/arifsiddiqui295/Leet_code2/tree/master/2155-find-missing-observations) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/arifsiddiqui295/Leet_code2/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0074-search-a-2d-matrix) |
+| [0898-transpose-matrix](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0898-transpose-matrix) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/arifsiddiqui295/Leet_code2/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Heap (Priority Queue)
 |  |
