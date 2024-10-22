@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0792-binary-search) |
 | [0898-transpose-matrix](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0898-transpose-matrix) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/arifsiddiqui295/Leet_code2/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1603-running-sum-of-1d-array](https://github.com/arifsiddiqui295/Leet_code2/tree/master/1603-running-sum-of-1d-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/arifsiddiqui295/Leet_code2/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/arifsiddiqui295/Leet_code2/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0792-binary-search) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/arifsiddiqui295/Leet_code2/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0074-search-a-2d-matrix) |
 | [0898-transpose-matrix](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0898-transpose-matrix) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/arifsiddiqui295/Leet_code2/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/arifsiddiqui295/Leet_code2/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Heap (Priority Queue)
 |  |
