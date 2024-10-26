@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/arifsiddiqui295/Leet_code2/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2155-find-missing-observations](https://github.com/arifsiddiqui295/Leet_code2/tree/master/2155-find-missing-observations) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/arifsiddiqui295/Leet_code2/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/arifsiddiqui295/Leet_code2/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/arifsiddiqui295/Leet_code2/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Prefix Sum
 |  |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/arifsiddiqui295/Leet_code2/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/arifsiddiqui295/Leet_code2/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/arifsiddiqui295/Leet_code2/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Number Theory
 |  |
