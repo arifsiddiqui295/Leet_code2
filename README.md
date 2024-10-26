@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/arifsiddiqui295/Leet_code2/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2155-find-missing-observations](https://github.com/arifsiddiqui295/Leet_code2/tree/master/2155-find-missing-observations) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/arifsiddiqui295/Leet_code2/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2519-find-the-original-array-of-prefix-xor](https://github.com/arifsiddiqui295/Leet_code2/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/arifsiddiqui295/Leet_code2/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/arifsiddiqui295/Leet_code2/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/arifsiddiqui295/Leet_code2/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0268-missing-number) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/arifsiddiqui295/Leet_code2/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2519-find-the-original-array-of-prefix-xor](https://github.com/arifsiddiqui295/Leet_code2/tree/master/2519-find-the-original-array-of-prefix-xor) |
 ## Sorting
 |  |
 | ------- |
