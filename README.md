@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2155-find-missing-observations](https://github.com/arifsiddiqui295/Leet_code2/tree/master/2155-find-missing-observations) |
 | [2812-find-the-maximum-achievable-number](https://github.com/arifsiddiqui295/Leet_code2/tree/master/2812-find-the-maximum-achievable-number) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/arifsiddiqui295/Leet_code2/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/arifsiddiqui295/Leet_code2/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2585-delete-greatest-value-in-each-row](https://github.com/arifsiddiqui295/Leet_code2/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/arifsiddiqui295/Leet_code2/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/arifsiddiqui295/Leet_code2/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/arifsiddiqui295/Leet_code2/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Two Pointers
 |  |
 | ------- |
