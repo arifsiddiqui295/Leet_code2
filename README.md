@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/arifsiddiqui295/Leet_code2/tree/master/1013-fibonacci-number) |
+| [1610-xor-operation-in-an-array](https://github.com/arifsiddiqui295/Leet_code2/tree/master/1610-xor-operation-in-an-array) |
 | [2032-largest-odd-number-in-string](https://github.com/arifsiddiqui295/Leet_code2/tree/master/2032-largest-odd-number-in-string) |
 | [2155-find-missing-observations](https://github.com/arifsiddiqui295/Leet_code2/tree/master/2155-find-missing-observations) |
 | [2812-find-the-maximum-achievable-number](https://github.com/arifsiddiqui295/Leet_code2/tree/master/2812-find-the-maximum-achievable-number) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0268-missing-number) |
+| [1610-xor-operation-in-an-array](https://github.com/arifsiddiqui295/Leet_code2/tree/master/1610-xor-operation-in-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/arifsiddiqui295/Leet_code2/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/arifsiddiqui295/Leet_code2/tree/master/2519-find-the-original-array-of-prefix-xor) |
 ## Sorting
