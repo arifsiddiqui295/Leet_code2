@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1610-xor-operation-in-an-array](https://github.com/arifsiddiqui295/Leet_code2/tree/master/1610-xor-operation-in-an-array) |
 | [2032-largest-odd-number-in-string](https://github.com/arifsiddiqui295/Leet_code2/tree/master/2032-largest-odd-number-in-string) |
 | [2155-find-missing-observations](https://github.com/arifsiddiqui295/Leet_code2/tree/master/2155-find-missing-observations) |
+| [2507-number-of-common-factors](https://github.com/arifsiddiqui295/Leet_code2/tree/master/2507-number-of-common-factors) |
 | [2812-find-the-maximum-achievable-number](https://github.com/arifsiddiqui295/Leet_code2/tree/master/2812-find-the-maximum-achievable-number) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/arifsiddiqui295/Leet_code2/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/arifsiddiqui295/Leet_code2/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [2507-number-of-common-factors](https://github.com/arifsiddiqui295/Leet_code2/tree/master/2507-number-of-common-factors) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/arifsiddiqui295/Leet_code2/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Database
 |  |
@@ -283,4 +285,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0584-find-customer-referee](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0595-big-countries) |
 | [1908-recyclable-and-low-fat-products](https://github.com/arifsiddiqui295/Leet_code2/tree/master/1908-recyclable-and-low-fat-products) |
+## Enumeration
+|  |
+| ------- |
+| [2507-number-of-common-factors](https://github.com/arifsiddiqui295/Leet_code2/tree/master/2507-number-of-common-factors) |
 <!---LeetCode Topics End-->
