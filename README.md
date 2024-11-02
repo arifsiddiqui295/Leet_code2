@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0792-binary-search) |
 | [0898-transpose-matrix](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0898-transpose-matrix) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/arifsiddiqui295/Leet_code2/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/arifsiddiqui295/Leet_code2/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/arifsiddiqui295/Leet_code2/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1603-running-sum-of-1d-array](https://github.com/arifsiddiqui295/Leet_code2/tree/master/1603-running-sum-of-1d-array) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0560-subarray-sum-equals-k) |
 | [0782-jewels-and-stones](https://github.com/arifsiddiqui295/Leet_code2/tree/master/0782-jewels-and-stones) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/arifsiddiqui295/Leet_code2/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/arifsiddiqui295/Leet_code2/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/arifsiddiqui295/Leet_code2/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 ## Binary Search
