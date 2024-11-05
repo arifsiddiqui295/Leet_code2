@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1610-xor-operation-in-an-array](https://github.com/arifsiddiqui295/Leet_code2/tree/master/1610-xor-operation-in-an-array) |
 | [2032-largest-odd-number-in-string](https://github.com/arifsiddiqui295/Leet_code2/tree/master/2032-largest-odd-number-in-string) |
 | [2155-find-missing-observations](https://github.com/arifsiddiqui295/Leet_code2/tree/master/2155-find-missing-observations) |
+| [2383-add-two-integers](https://github.com/arifsiddiqui295/Leet_code2/tree/master/2383-add-two-integers) |
 | [2507-number-of-common-factors](https://github.com/arifsiddiqui295/Leet_code2/tree/master/2507-number-of-common-factors) |
 | [2812-find-the-maximum-achievable-number](https://github.com/arifsiddiqui295/Leet_code2/tree/master/2812-find-the-maximum-achievable-number) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/arifsiddiqui295/Leet_code2/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
