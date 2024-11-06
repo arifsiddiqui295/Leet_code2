@@ -5,13 +5,13 @@ class Solution {
         int maxi = Integer.MIN_VALUE;
         for (int i = 0; i < candies.length; i++)
             maxi = Math.max(maxi, candies[i]);
+
         for (int i = 0; i < candies.length; i++) {
             int sum = candies[i] + extraCandies;
-            if (sum >= maxi) {
+            if (sum >= maxi)
                 ans.add(true);
-            } else {
+            else
                 ans.add(false);
-            }
         }
         return ans;
     }
