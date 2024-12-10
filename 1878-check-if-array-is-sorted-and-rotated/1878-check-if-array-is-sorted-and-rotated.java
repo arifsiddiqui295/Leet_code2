@@ -1,24 +1,12 @@
 class Solution {
     public boolean check(int[] nums) {
-        int count = 0;
-        while (count < nums.length) {
-            if (isSort(nums)) {
-                return true;
-            } else {
-                int temp = nums[nums.length - 1];
-                for (int j = nums.length - 1; j > 0; j--) {
-                    nums[j] = nums[j - 1];
-                }
-                nums[0] = temp;
+        int drop = 0;
+        int n = nums.length;
+        for (int i = 0; i < n; i++) {
+            if (nums[i] > nums[(i + 1) % n]) {
+                drop++;
             }
-            count++;
-        }
-        return false;
-    }
-
-    public static boolean isSort(int[] nums) {
-        for (int i = 0; i < nums.length - 1; i++) {
-            if (nums[i] > nums[i + 1]) {
+            if (drop > 1) {
                 return false;
             }
         }
