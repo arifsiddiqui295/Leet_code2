@@ -5,15 +5,16 @@ class Solution {
             set.add(num);
         }
         int maxStreak = 0;
-        for (var num : set) {
-            if (!set.contains(num - 1)) {
-                int currNum = num;
-                int currStreak = 1;
-                while (set.contains(currNum + 1)) {
-                    currNum++;
+        for (int i = 0; i < nums.length; i++) {
+            int value = nums[i] - 1;
+            if (!set.contains(value)) {
+                int currStreak = 0;
+                value++;
+                while (set.contains(value)) {
                     currStreak++;
+                    value++;
                 }
-                maxStreak = Math.max(maxStreak, currStreak);
+                maxStreak = Math.max(currStreak, maxStreak);
             }
         }
         return maxStreak;
