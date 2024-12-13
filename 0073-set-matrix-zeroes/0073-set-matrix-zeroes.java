@@ -1,23 +1,23 @@
 class Solution {
     public void setZeroes(int[][] matrix) {
-        Set<Integer> rowset = new HashSet<>();
-        Set<Integer> colset = new HashSet<>();
+        HashSet<Integer> rowSet = new HashSet<>();
+        HashSet<Integer> colSet = new HashSet<>();
         for (int i = 0; i < matrix.length; i++) {
-            for (int j = 0; j < matrix[0].length; j++) {
+            for (int j = 0; j < matrix[i].length; j++) {
                 if (matrix[i][j] == 0) {
-                    rowset.add(i);
-                    colset.add(j);
+                    rowSet.add(i);
+                    colSet.add(j);
                 }
             }
         }
-        for (var i : rowset) {
+        for (var row : rowSet) {
             for (int j = 0; j < matrix[0].length; j++) {
-                matrix[i][j] = 0;
+                matrix[row][j] = 0;
             }
         }
-        for (var j : colset) {
-            for (int i = 0; i < matrix.length; i++) {
-                matrix[i][j] = 0;
+        for (var col : colSet) {
+            for (int j = 0; j < matrix.length; j++) {
+                matrix[j][col] = 0;
             }
         }
     }
